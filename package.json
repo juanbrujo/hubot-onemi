@@ -1,6 +1,6 @@
 {
   "name": "hubot-onemi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hubot script para las últimas 5 alertas desde el sitio de Ministerio del Interior y Seguridad Pública de Chile ONEMI",
   "main": "hubot-onemi.js",
   "scripts": {
