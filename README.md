@@ -1,6 +1,6 @@
 # Hubot Onemi
 
-**Hubot script para las últimas alertas desde el sitio de Ministerio del Interior y Seguridad Pública de Chile (ONEMI)[onemi.cl]**
+**Hubot script para las últimas alertas desde el sitio de Ministerio del Interior y Seguridad Pública de Chile [ONEMI](onemi.cl**
 
 [![npm version](https://badge.fury.io/js/hubot-onemi.svg)](https://badge.fury.io/js/hubot-onemi)
 
