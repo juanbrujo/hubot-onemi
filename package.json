@@ -1,0 +1,25 @@
+{
+  "name": "hubot-onemi",
+  "version": "0.0.1",
+  "description": "Hubot script para las últimas 5 alertas desde el sitio de Ministerio del Interior y Seguridad Pública de Chile ONEMI",
+  "main": "hubot-onemi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/hubot-onemi.git"
+  },
+  "keywords": [
+    "hubot",
+    "onemi",
+    "alerta",
+    "chile"
+  ],
+  "author": "Jorge Epuñan <juanbrujo@gmail.com> (http://www.csslab.cl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/hubot-onemi/issues"
+  },
+  "homepage": "https://github.com/juanbrujo/hubot-onemi#readme"
+}
