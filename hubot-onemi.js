@@ -24,8 +24,6 @@ module.exports = function(robot) {
     var tipoAlerta = msg.match[1].split(' ')[1];
     var nombreAlerta = '';
 
-    console.log(tipoAlerta);
-
     if( tipoAlerta == 'rojo' || tipoAlerta == 'roja') {
       alertaURL = alertaURL + alertaRojaURL;
       nombreAlerta = 'rojo';
